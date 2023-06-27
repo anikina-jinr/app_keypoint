@@ -1,6 +1,0 @@
-The considered behavioral test has a form of round arena with the chequered-marked sectors and holes. 
-The observation procedure on the laboratory animals takes 3-6 minutes. 
-
-The “Open Field” test-system allows to register the general activity of animals. 
-To this aim, we fix the quantity of passed sectors together with the number of intersections of the marked center. 
-Also, we check how many holes, standings upright with/without supports, standings still and motions on one place the animals did.
