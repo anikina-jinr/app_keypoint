@@ -98,11 +98,11 @@ def prediction(input_img, model):
     X_test_median = []
     count = 0
 
-    img = get_average(vdata_arr)
-    imageTest = cv2.imread(img)
+    # img = get_average(vdata_arr)
+    # imageTest = cv2.imread(img)
 
-    x = np.array(imageTest)
-    resized = cv2.resize(imageTest, dim, interpolation=cv2.INTER_AREA)
+    x = np.array(input_img)
+    resized = cv2.resize(x, dim, interpolation=cv2.INTER_AREA)
     X_test_median.append(resized)
     count +=1
     
